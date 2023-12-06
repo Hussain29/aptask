@@ -70,5 +70,9 @@
         android:layout_marginTop="26dp"
         android:backgroundTint="?attr/colorPrimary"
         android:textColor="#FFFFFF"/>
+<com.google.android.gms.common.SignInButton
+    android:id="@+id/gsign"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"/>
 
 </LinearLayout>
